@@ -104,11 +104,13 @@ int number;
 char key;
 	printf("키를 하나 입력해주세요 >> ");
 	key = getchar();
-	putchar(key);
 ```
 
 # putchar
 전달받은 문자 하나를 화면에 출력하는 기능이 있습니다.
+```c
+	putchar(key);
+```
 
 # gets puts
 문자열에 대한 입력과 출력을 진행할 때 편하게 사용할 수 있습니다.
