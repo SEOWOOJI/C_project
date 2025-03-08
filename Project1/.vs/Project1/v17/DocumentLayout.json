@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\jiseowoo\\C_project\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\jiseowoo\\C_project\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4F39687-AA69-4C2D-BDFC-FBF077EB47A5}|Project1.vcxproj|C:\\jiseowoo\\C_project\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4F39687-AA69-4C2D-BDFC-FBF077EB47A5}|Project1.vcxproj|solutionrelative:2.\uBB38\uC7A5 \uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\jiseowoo\\C_project\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2.\uBB38\uC7A5 \uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "DocumentMoniker": "C:\\jiseowoo\\C_project\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\jiseowoo\\C_project\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c",
               "RelativeDocumentMoniker": "2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "ToolTip": "C:\\jiseowoo\\C_project\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\jiseowoo\\C_project\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c",
               "RelativeToolTip": "2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-08T01:37:18.219Z",
               "EditorCaption": ""
