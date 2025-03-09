@@ -1,4 +1,0 @@
-﻿17.함수 연습문제.obj : error LNK2019: averagemain 함수에서 참조되는 확인할 수 없는 외부 기호
-17.함수 연습문제.obj : error LNK2019: isOddmain 함수에서 참조되는 확인할 수 없는 외부 기호
-17.함수 연습문제.obj : error LNK2019: getPrimemain 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\jiseowoo\C_project\Project3\x64\Debug\Project3.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.

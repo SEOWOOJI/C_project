@@ -1,3 +1,0 @@
-﻿  10.연습문제.c
-C:\Users\admin\Desktop\jiseowoo\C_project\Project\10.연습문제.c(40,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Project.vcxproj -> C:\Users\admin\Desktop\jiseowoo\C_project\Project\x64\Debug\Project.exe
